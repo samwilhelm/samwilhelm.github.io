@@ -10,10 +10,14 @@ website:
         text: "Home"
       - href: research.qmd
         text: "Research"
+      - href: publications.qmd
+        text: "Publications"
+      - href: contact.qmd
+        text: "Contact"
 
 format:
   html:
-    theme: cosmo
+    theme: cerulean
     css: styles.css
     toc: true
 
