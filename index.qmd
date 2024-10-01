@@ -1,10 +1,8 @@
 ---
-title: "MyWebsite"
+title: "Sam Wilhelm"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a PhD student at the University of Tennessee studying plant-pollinator interactions and the natural history of native bee and plant communities.
 
 ```{r}
 1 + 1
