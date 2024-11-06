@@ -1,9 +1,9 @@
 ---
-title: "Sam Wilhelm"
+title: "Sam Wilhelm (he/him)"
 ---
 
-I am a PhD student at the University of Tennessee studying plant-pollinator interactions and the natural history of native bee and plant communities.
+I am a 3rd-year PhD student at the University of Tennessee studying community ecology, plant-pollinator interactions, and the natural history of native bee and plant communities. My research prioritizes the conservation of the North American native bee fauna- a fascinating group of organisms that has been historically overlooked for their diversity and invaluable role in pollinating both wild and agricultural flowering plants.
 
-```{r}
-1 + 1
-```
+Outside of research, I enjoy hiking, reading, and photography. My newest obsession is documenting in situ the plant-bee interactions I study via macrophotography. Many of these can be seen on my [iNaturalist](https://www.inaturalist.org/people/samwilhelm) page.
+
+![*Colletes robertsonii* - A specialist on Dalea gattingeri in TN cedar glades.](images/robertsonii.jpeg)
